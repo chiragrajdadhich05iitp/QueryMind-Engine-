@@ -1,0 +1,35 @@
+# Environment variables (API Keys leak hone se bachane ke liye)
+.env
+*.env
+
+# Virtual Environments
+.venv/
+.venv-*/
+env/
+venv/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Databases (Local SQLite files ignore karne ke liye)
+*.db
+*.sqlite
+*.sqlite3
+
+# Packaging & Build artifacts
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+
+# Editor & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
