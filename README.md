@@ -1,6 +1,6 @@
-# QueryMind AI — Natural Language to SQL Analytics Engine
+# QueryMind AI Engine — Natural Language to SQL Analytics Engine
 
-QueryMind AI is an intelligent data querying assistant built on top of LangChain, LangGraph, and Google Gemini. It bridges the gap between natural language questions and relational SQL databases, allowing users and stakeholders to extract actionable business insights without writing manual queries.
+QueryMind AI Engine is an intelligent data querying assistant built on top of LangChain, LangGraph, and Google Gemini. It bridges the gap between natural language questions and relational SQL databases, allowing users and stakeholders to extract actionable business insights without writing manual queries.
 
 **Author:** Chirag Raj Dadhich
 
